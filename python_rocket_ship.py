@@ -12,9 +12,11 @@ The result is your machine will become a rocket ship
 
 see screenshot of htop for before launch:
 
+https://github.com/sergeimellow/python_rocket_ship/blob/master/before_launch.png
 
 and after launch:
 
+https://github.com/sergeimellow/python_rocket_ship/blob/master/after_launch.png
 
 sample run:
 
