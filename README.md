@@ -1,10 +1,12 @@
 # Concurrency & parallelism with asyncio & multiprocessing.
 
-Uses python asyncio & multiprocessing to run a very heavy operation on N CPU cores.
+### Uses python asyncio & multiprocessing to run a very heavy operation on N CPU cores.
 
-before launch:
+## before rocket ship launch:
+![before launch](https://github.com/sergeimellow/python_rocket_ship/blob/master/before_launch.png)
 
-after launch:
+## after rocket ship launch:
+![after launch](https://github.com/sergeimellow/python_rocket_ship/blob/master/after_launch.png)
 
 example run
 ```
