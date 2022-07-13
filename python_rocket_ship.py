@@ -52,7 +52,7 @@ running task one for process 12
 running task one for process 13
 running task one for process 14
 running task one for process 15
-... and we hang here while we watch out CPU go to Mars until we decide they had enough and we ctrl+c
+... and we hang here while we watch our CPUs go to Mars until we decide they had enough and we ctrl+c the script
 
 """
 
